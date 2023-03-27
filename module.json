@@ -68,7 +68,7 @@
         },
         {
             "name": "5e-srd-trade-goods",
-            "label": "5E SRD Spells",
+            "label": "5E SRD Trade Goods",
             "path": "packs/5e-srd-trade-goods.db",
             "type": "Item",
             "system": "a5e"
