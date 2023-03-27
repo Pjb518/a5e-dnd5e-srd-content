@@ -1,6 +1,6 @@
 # D&D 5e SRD Content (A5e)
 
-This module includes converted versions of the D&D 5e SRD content for the A5e Foundry system. Currently, the module includes the following packs, with more to come soon:
+This module includes converted versions of the D&D 5e SRD content for the [A5e Foundry system](https://github.com/Pjb518/FoundryVTT-Level-Up-Official). Currently, the module includes the following packs, with more to come soon:
 
 - Monsters
 - Monster Features
