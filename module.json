@@ -1,0 +1,85 @@
+{
+    "id": "a5e-dnd5e-srd-content",
+    "title": "D&D5e SRD Content (A5e)",
+    "description": "Provides A5e versions of the D&D5e SRD content.",
+    "version": "1.0.0",
+    "manifestPlusVersion": "1.2.0",
+    "authors": [
+        {
+            "name": "Phillip Best",
+            "url": "https://bio.link/philbest",
+            "email": "me@phillip.best",
+            "discord": "Phil#7071",
+            "ko-fi": "philbest"
+        }
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "a5e",
+                "type": "system",
+                "manifest": "https://github.com/Pjb518/FoundryVTT-Level-Up-Official/releases/latest/download/system.json",
+                "compatibility": {
+                    "minimum": "0.9.0",
+                    "verified": "0.9.8"
+                }
+            }
+        ]
+    },
+    "packs": [
+        {
+            "name": "5e-srd-monsters",
+            "label": "5E SRD Monsters",
+            "path": "packs/5e-srd-monsters.db",
+            "type": "Actor",
+            "system": "a5e"
+        },
+        {
+            "name": "5e-srd-class-features",
+            "label": "5E SRD Class Features",
+            "path": "packs/5e-srd-class-features.db",
+            "type": "Item",
+            "system": "a5e"
+        },
+        {
+            "name": "5e-srd-items",
+            "label": "5E SRD Items",
+            "path": "packs/5e-srd-items.db",
+            "type": "Item",
+            "system": "a5e"
+        },
+        {
+            "name": "5e-srd-monster-features",
+            "label": "5E SRD Monster Features",
+            "path": "packs/5e-srd-monster-features.db",
+            "type": "Item",
+            "system": "a5e"
+        },
+        {
+            "name": "5e-srd-spells",
+            "label": "5E SRD Spells",
+            "path": "packs/5e-srd-spells.db",
+            "type": "Item",
+            "system": "a5e"
+        },
+        {
+            "name": "5e-srd-trade-goods",
+            "label": "5E SRD Spells",
+            "path": "packs/5e-srd-trade-goods.db",
+            "type": "Item",
+            "system": "a5e"
+        }
+    ],
+    "socket": false,
+    "url": "https://github.com/Pjb518/a5e-dnd5e-srd-content",
+    "readme": "https://github.com/Pjb518/a5e-dnd5e-srd-content/blob/master/README.md",
+    "manifest": "https://github.com/Pjb518/a5e-dnd5e-srd-content/releases/latest/download/module.json",
+    "download": "https://github.com/Pjb518/a5e-dnd5e-srd-content/releases/download/1.0.0/a5e-dnd5e-srd-content.zip",
+    "protected": false,
+    "coreTranslation": false,
+    "library": false
+}
